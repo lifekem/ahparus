@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 21,
+    "uniqCompNum": 22,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -288,7 +288,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/f428d683d7b5c1e74b0f9f7772342a75-resize-1-600x5007.png",
+              "src": "@PROJECT_PATH@/assets/images/f428d683d7b5c1e74b0f9f7772342a75-resize-1-600x5008.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -706,20 +706,26 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "25px",
+              "color": "#c0a375"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "social-buttons3",
-          "_anchor": "social-buttons3-h",
+          "_anchor": "social-buttons3-l",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#222222",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -730,7 +736,7 @@
             "vkontakte": true,
             "odnoklassniki": true
           },
-          "text": ""
+          "text": "<span style=\"font-weight: normal;\">Увидел сам - расскажи коллегам</span>"
         }
       ]
     }

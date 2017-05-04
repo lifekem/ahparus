@@ -13,6 +13,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -598,7 +599,12 @@ h6,
   font-family: 'Lora', serif;
   font-size: 24px;
 }
-#social-buttons3-h .mbr-section-title,
-#social-buttons3-h .btn-social {
+#social-buttons3-l .mbr-section-title,
+#social-buttons3-l .btn-social {
   color: #fff;
+}
+#social-buttons3-l .mbr-section-title SPAN {
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+  color: #c0a375;
 }

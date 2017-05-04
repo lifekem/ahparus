@@ -13,7 +13,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -493,6 +492,24 @@ h6,
   font-size: 21px;
   font-family: 'Lora', serif;
 }
+#header3-e .mbr-section-title,
+#header3-e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-e SPAN {
+  font-size: 36px;
+  font-family: 'Roboto', sans-serif;
+  color: #c0a375;
+}
+#header3-g .mbr-section-title,
+#header3-g .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-g I {
+  font-family: 'Lora', serif;
+  font-size: 24px;
+  color: #c0a375;
+}
 #header3-c .mbr-section-title,
 #header3-c .mbr-section-subtitle {
   text-align: center;
@@ -502,19 +519,11 @@ h6,
   font-family: 'Lora', serif;
   font-size: 24px;
 }
-#header3-e .mbr-section-title,
-#header3-e .mbr-section-subtitle {
-  text-align: center;
+#social-buttons3-l .mbr-section-title,
+#social-buttons3-l .btn-social {
+  color: #fff;
 }
-#header3-e SPAN {
-  font-size: 24px;
-  font-family: 'Roboto', sans-serif;
-}
-#header3-g .mbr-section-title,
-#header3-g .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-g I {
+#social-buttons3-l .mbr-section-title SPAN {
   font-family: 'Lora', serif;
   font-size: 24px;
   color: #c0a375;
@@ -589,22 +598,4 @@ h6,
 #accordion-block-f B {
   font-size: 25px;
   font-family: 'Open Sans', sans-serif;
-}
-#header3-k .mbr-section-title,
-#header3-k .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-k SPAN {
-  color: #c0a375;
-  font-family: 'Lora', serif;
-  font-size: 24px;
-}
-#social-buttons3-l .mbr-section-title,
-#social-buttons3-l .btn-social {
-  color: #fff;
-}
-#social-buttons3-l .mbr-section-title SPAN {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 25px;
-  color: #c0a375;
 }
